@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img width=900 height=250 src="https://github.com/hmzel/hmzel/blob/main/images/eyes.png">
+  <img width=900 height=250 src="https://github.com/hmzel/hmzel/blob/main/images/eyes-2.png">
   <br>
   Call me Hazel.
   <br>
