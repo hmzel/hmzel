@@ -1,7 +1,7 @@
 <h2 align="center">
-  <img width=900 height=250 src="https://github.com/hmzel/hmzel/blob/main/images/eyes-2.png">
+  <img width=700 height=350 src="https://github.com/hmzel/hmzel/blob/main/images/centipede.png">
   <br>
-  Call me Hazel.
+  Call me Hazel Dritch.
   <br>
   <sup><sub><sup><sub>gods first mistake was giving me free will. his second? a body</sub></sup></sub></sup>
 </h2>
